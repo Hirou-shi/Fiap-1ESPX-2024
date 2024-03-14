@@ -1,8 +1,11 @@
-button {
-    font-size: larger;
+.youtube {
+    font-size: normal;
+    font-style: normal;
     background-color: rgb(200, 0, 0);
     color: white;
-    border-radius: 12px;
-    width: 200px;
-    height: 100px;
+    border-radius: 5px;
+    border: 0;  
+    width: 160px;
+    height: 50px;
+    cursor: pointer;
 }
