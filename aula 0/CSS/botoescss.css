@@ -52,5 +52,8 @@
 }
 
 .tweet:hover {
-    background-color: 
+    background-color: white;
+    color: rgb(97, 179, 255);
+    border: 2px;
+    border-color: rgb(97, 179, 255) solid;
 }
