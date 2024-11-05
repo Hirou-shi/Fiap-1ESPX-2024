@@ -1,0 +1,12 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.box {
+    display: flex;
+    justify-content: center;
+    background-image: url(./img/background.png);
+    background-size: ;
+    background-position: 1px;
+}
